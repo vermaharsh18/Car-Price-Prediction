@@ -1,8 +1,8 @@
 # Car-Price-Prediction
 
-##Description
+## Description
 
-###Dataset link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+### Dataset link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
 This dataset contains information about used cars listed on www.cardekho.com
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
@@ -20,4 +20,4 @@ The columns in the given dataset is as follows:
 
 Prediction: To predict the best selling price of the used car.
 
-##Deployment link: https://predictcar-price.herokuapp.com/
+## Deployment link: https://predictcar-price.herokuapp.com/
